@@ -27,7 +27,7 @@ github_username:  1moule
 # Build settings
 markdown: kramdown
 # remote_theme: mmistakes/minimal-mistakes
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
