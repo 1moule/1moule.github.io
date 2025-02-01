@@ -192,21 +192,21 @@
 
 1. **setting** ->ssh configuration
 
-   ![image](/home/ros2/Pictures/Screenshot from 2024-12-27 16-50-45.png)
+   ![image](../pictures/Screenshot from 2024-12-27 16-50-45.png)
 
 2. 配置ssh deployment
 
-   ![image](/home/ros2/Pictures/Screenshot from 2024-12-29 19-10-42.png)
+   ![image](../pictures/Screenshot from 2024-12-29 19-10-42.png)
 
-   ![image](/home/ros2/Pictures/Screenshot from 2024-12-29 19-11-59.png)
+   ![image](../pictures/Screenshot from 2024-12-29 19-11-59.png)
 
 3. 配置tool chains
 
-   > ![image](/home/ros2/Pictures/Screenshot from 2024-12-27 16-52-44.png)
+   > ![image](../pictures/Screenshot from 2024-12-27 16-52-44.png)
 
 4. 配置cmake
 
-   ![image](/home/ros2/Pictures/Screenshot from 2024-12-29 19-12-49.png)
+   ![image](../pictures/Screenshot from 2024-12-29 19-12-49.png)
 
    - Toolchain选择刚才配置的toolchain
 
