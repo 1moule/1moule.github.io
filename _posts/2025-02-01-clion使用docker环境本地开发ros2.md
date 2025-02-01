@@ -192,21 +192,21 @@
 
 1. **setting** ->ssh configuration
 
-   ![image](../pictures/Screenshot from 2024-12-27 16-50-45.png)
+   ![image](https://github.com/1moule/1moule.github.io/raw/master/pictures/Screenshot from 2024-12-27 16-50-45.png)
 
 2. 配置ssh deployment
 
-   ![image](../pictures/Screenshot from 2024-12-29 19-10-42.png)
+   ![image](https://github.com/1moule/1moule.github.io/raw/master/pictures/Screenshot from 2024-12-29 19-10-42.png)
 
    ![image](../pictures/Screenshot from 2024-12-29 19-11-59.png)
 
 3. 配置tool chains
 
-   > ![image](../pictures/Screenshot from 2024-12-27 16-52-44.png)
+   ![image](https://github.com/1moule/1moule.github.io/raw/master/pictures/Screenshot from 2024-12-27 16-52-44.png)
 
 4. 配置cmake
 
-   ![image](../pictures/Screenshot from 2024-12-29 19-12-49.png)
+   ![image](https://github.com/1moule/1moule.github.io/raw/master/pictures/Screenshot from 2024-12-29 19-12-49.png)
 
    - Toolchain选择刚才配置的toolchain
 
